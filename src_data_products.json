@@ -1,0 +1,20 @@
+[
+  {
+    "id": "pack1",
+    "title": "Trap Beats Pack Vol. 1",
+    "image": "/assets/trap-pack1.png",
+    "price": "R$29,90",
+    "audio": "/assets/preview-trap1.mp3",
+    "description": "Pack completo com beats trap, loops, samples e FLPs editáveis.",
+    "buyLink": "https://pag.ae/7Zb6w8XwT"  // Exemplo PagSeguro, pode ser PayPal, Stripe ou Pix
+  },
+  {
+    "id": "pack2",
+    "title": "Lo-Fi Essentials",
+    "image": "/assets/lofi-pack.png",
+    "price": "R$19,90",
+    "audio": "/assets/preview-lofi.mp3",
+    "description": "Samples Lo-Fi, drum kits exclusivos e projetos base.",
+    "buyLink": "https://pag.ae/7Zb6w8XwT"
+  }
+]
